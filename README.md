@@ -1,1 +1,1 @@
-# new-tab-quote-extension
+This is a chrome extension that shows a quote every time a new tab is opened.
