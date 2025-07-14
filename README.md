@@ -1,4 +1,5 @@
 This is a chrome extension that shows a quote every time a new tab is opened.
+Note: RAPIDAPI Key required.
 
 To use:
 1. Download ZIP
